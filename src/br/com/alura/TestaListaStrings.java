@@ -2,7 +2,7 @@ package br.com.alura;
 
 import java.util.ArrayList;
 
-public class TestantoListas {
+public class TestaListaStrings {
 
 	public static void main(String[] args) {
 		String aula1 = "Conhecendo mais de listas";
